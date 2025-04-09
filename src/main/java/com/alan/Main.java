@@ -5,6 +5,11 @@ public class Main {
        // System.out.println("Hello World");
      Person p=new Person();
      p.hello();
+     int age = 20;
+     float weight=65.5f;
+     double height=160.8;
+
+
         //new Person().hello();
     }
 }
